@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdiqiu_website=self.webpackChunkdiqiu_website||[]).push([[8044],{2480:e=>{e.exports=JSON.parse('{"title":"\u6570\u636e\u7ed3\u6784\u4e0e\u7b97\u6cd5","slug":"/algorithm","permalink":"/docs/algorithm","navigation":{"previous":{"title":"DNS","permalink":"/docs/network/dns"},"next":{"title":"\u6808","permalink":"/docs/algorithm/stack"}}}')}}]);
