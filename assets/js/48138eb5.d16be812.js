@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdiqiu_website=self.webpackChunkdiqiu_website||[]).push([[3329],{6324:e=>{e.exports=JSON.parse('{"label":"\u5237\u9898","permalink":"/docs/tags/\u5237\u9898","allTagsPath":"/docs/tags","count":1,"items":[{"id":"algorithm/exercises","title":"\u5237\u9898","description":"HOT100 \u7cfb\u5217","permalink":"/docs/algorithm/exercises"}]}')}}]);
