@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdiqiu_website=self.webpackChunkdiqiu_website||[]).push([[9585],{2557:e=>{e.exports=JSON.parse('{"label":"Vite","permalink":"/blog/tags/vite","allTagsPath":"/blog/tags","count":1}')}}]);

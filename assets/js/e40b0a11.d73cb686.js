@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdiqiu_website=self.webpackChunkdiqiu_website||[]).push([[3569],{7874:e=>{e.exports=JSON.parse('{"label":"Turbopack","permalink":"/blog/tags/turbopack","allTagsPath":"/blog/tags","count":1}')}}]);
