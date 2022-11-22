@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdiqiu_website=self.webpackChunkdiqiu_website||[]).push([[9571],{8014:e=>{e.exports=JSON.parse('{"label":"UML","permalink":"/blog/tags/uml","allTagsPath":"/blog/tags","count":1}')}}]);
