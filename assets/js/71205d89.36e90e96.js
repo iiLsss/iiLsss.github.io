@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdiqiu_website=self.webpackChunkdiqiu_website||[]).push([[4450],{683:e=>{e.exports=JSON.parse('{"label":"vue-cli","permalink":"/blog/tags/vue-cli","allTagsPath":"/blog/tags","count":1}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdiqiu_website=self.webpackChunkdiqiu_website||[]).push([[639],{1156:e=>{e.exports=JSON.parse('{"label":"create-react-app","permalink":"/blog/tags/create-react-app","allTagsPath":"/blog/tags","count":1}')}}]);
