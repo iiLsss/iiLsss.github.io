@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdiqiu_website=self.webpackChunkdiqiu_website||[]).push([[9887],{7986:e=>{e.exports=JSON.parse('{"title":"Javascript","slug":"/js","permalink":"/docs/js","navigation":{"previous":{"title":"DNS","permalink":"/docs/network/dns"},"next":{"title":"\u6570\u636e\u7c7b\u578b","permalink":"/docs/javascript/primitive_value"}}}')}}]);
