@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdiqiu_website=self.webpackChunkdiqiu_website||[]).push([[959],{1150:e=>{e.exports=JSON.parse('{"label":"Code","permalink":"/docs/tags/code","allTagsPath":"/docs/tags","count":1,"items":[{"id":"interview/code","title":"Code","description":"Event loop","permalink":"/docs/interview/code"}]}')}}]);
